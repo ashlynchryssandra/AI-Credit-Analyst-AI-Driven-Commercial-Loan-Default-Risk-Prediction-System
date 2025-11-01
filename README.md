@@ -1,4 +1,4 @@
-# AI-Credit-Analyst-AI-Driven-Commercial-Loan-Default-Risk-Prediction-System
+# AI Credit Analyst: AI Driven Commercial Loan Default Risk Prediction System for MSME (Micro Small and Medium Enterprises)
 The AI Credit Analyst is an explainable ML system that modernizes lending by analyzing financial, operational, and behavioral data. It generates a Risk Probability Score, enabling banks to adopt risk-based pricing, cut loan losses, and improve profitability.
 
 Project Prudence: AI-Driven Loan Default Risk Prediction
